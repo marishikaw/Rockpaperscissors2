@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">じゃんけんゲーム</string>
+    <string name="txt_default">じゃんけん...</string>
+    <string name="btn_rock">✊</string>
+    <string name="btn_scissors">✌️</string>
+    <string name="btn_paper">✋</string>
+</resources>
